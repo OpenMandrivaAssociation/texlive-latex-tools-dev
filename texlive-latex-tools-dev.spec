@@ -1,6 +1,6 @@
 Name:		texlive-latex-tools-dev
 Version:	64899
-Release:	1
+Release:	2
 Summary:	Development pre-release of the LaTeX tools bundle
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-tools-dev
